@@ -49,36 +49,11 @@ Become a Data Analyst and eventually transition into a Data Scientist role.
 
 ---
 
-## 📈 Projects
-
-### 📊 Sales Data Analysis
-- Analyzed sales trends using Excel and SQL
-- Created interactive dashboards
-- Generated business insights
-
-### 🏫 School Data Management
-- Collected and organized CBSE school data
-- Performed data cleaning and validation
-- Created spreadsheet-ready reports
-
-### 📉 Data Visualization Dashboard
-- Built visual reports in Power BI
-- Created KPI tracking dashboards
-
----
-
-## 🏆 Certifications
-- Data Analytics Courses
-- Excel Certifications
-- SQL Training
-
----
-
 ## 📫 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/priyam-sharma-394317389
 
-📧 Email: your-email@example.com
+📧 Email: chhavisharma720@gmail.com
 
 🐙 GitHub: https://github.com/priyam-sharma-cyber
 
